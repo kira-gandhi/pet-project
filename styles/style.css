@@ -1,0 +1,46 @@
+.page {
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    font-family: 'Bangers', cursive;
+    height: 100vh;
+    height: 756px;
+    background-color: #DB7093;
+}
+
+.logo {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 64px;
+    /* position: absolute; */
+    top: 30px;
+    left: 64px;
+}
+
+.two-columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1300px;
+}
+
+button {
+    left: 80px;
+}
+
+.date {
+    font-family: Noto Sans, sans-serif;
+    font-size: 56px;
+    padding-top: 50px;
+}
+
+.table-cell {
+    width: 1000px;
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+}
